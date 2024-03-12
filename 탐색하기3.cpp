@@ -23,9 +23,7 @@ namespace week2_탐색하기3 {
 			}
 		}
 
-		//찾은 인덱스 출력
-		printf("%d ", idx + 1);
-		return data[idx]; //해당 값 리턴
+		return idx + 1; //찾은 인덱스 리턴
 	}
 
 	int main() {
@@ -38,8 +36,8 @@ namespace week2_탐색하기3 {
 		for (int i = 0; i < n; i++)
 			scanf("%d", &data[i]);
 
-		int answer = findIndex(data, n);
-		printf("%d\n", answer);
+		int index = findIndex(data, n);
+		printf("%d %d\n", data[index - 1], index);
 
 		delete[] data;
 		return 0;
@@ -47,10 +45,12 @@ namespace week2_탐색하기3 {
 
 }
 
+//int main() { week2_탐색하기3::main(); }
+
 /*
->> input
+	>> input
 6
 1 2 4 7 10 15
-<< output
+	<< output
 4 7
 */

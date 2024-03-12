@@ -27,16 +27,18 @@ namespace week2_Å½»öÇÏ±â1 {
 
 }
 
+//int main() { week2_Å½»öÇÏ±â1::main(); }
+
 /*
->> input
+	>> input
 3 2
 2 3 1
-<< output
+	<< output
 0
 
->> input
+	>> input
 10 4
 10 7 2 6 3 1 88 27 35 85
-<< output
+	<< output
 -1
 */

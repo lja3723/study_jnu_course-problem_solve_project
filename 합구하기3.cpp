@@ -30,9 +30,11 @@ namespace week2_합구하기3 {
 
 }
 
+//int main() { week2_합구하기3::main(); }
+
 /*
->> input
+	>> input
 100
-<< output
+	<< output
 171700
 */

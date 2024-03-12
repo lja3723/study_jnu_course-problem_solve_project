@@ -37,11 +37,13 @@ namespace week2_합구하기2 {
 
 }
 
+//int main() { week2_합구하기2::main(); }
+
 /*
->> input
+	>> input
 10 80 500
 75 50 67 84 54 67 98 85 58 90
-<< output
+	<< output
 6 371
 YES
 */

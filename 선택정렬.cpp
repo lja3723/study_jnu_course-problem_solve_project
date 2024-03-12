@@ -7,15 +7,12 @@ using namespace std;
 namespace week2_선택정렬 {
 
 	int getMinIndexInRange(int data[], int n, int begin, int end) {
-		int min = data[begin]; //최소값을 첫 값으로 초기화
-		int minIdx = begin; //최소값의 인덱스 초기화
+		int minIdx = begin; //최소값의 인덱스를 첫 값으로 초기화
 		
 		//begin이 end를 넘으면 break
 		while (begin <= end) {
-			if (data[begin] < min) { //새 최소값 발견
-				min = data[begin]; //최소값 갱신
+			if (data[begin] < data[minIdx]) //새 최소값 발견하면
 				minIdx = begin; //최소값의 인덱스 갱신
-			}
 			begin++;
 		}
 		return minIdx;
@@ -53,10 +50,12 @@ namespace week2_선택정렬 {
 
 }
 
+//int main() { week2_선택정렬::main(); }
+
 /*
->> input
+	>> input
 5
 3 5 1 2 4
-<< output
+	<< output
 1 2 3 4 5
 */

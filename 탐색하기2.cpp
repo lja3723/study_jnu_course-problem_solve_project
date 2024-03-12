@@ -45,8 +45,10 @@ namespace week2_Å½»öÇÏ±â2 {
 
 }
 
+//int main() { week2_Å½»öÇÏ±â2::main(); }
+
 /*
->> input
+	>> input
 10
 HELL
 CHOSUN
@@ -58,6 +60,6 @@ SEOUL
 AJOU
 AJOU
 WOOSONG
-<< output
+	<< output
 5 9
 */
