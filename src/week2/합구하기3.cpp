@@ -4,7 +4,7 @@
 
 using namespace std;
 
-namespace week2_합구하기3 {
+namespace week2_getSum3 {
 
 	// 1 ~ n 합 공식 계산값 리턴
 	int getRangeSumFromOne(int i) {
@@ -30,7 +30,7 @@ namespace week2_합구하기3 {
 
 }
 
-//int main() { week2_합구하기3::main(); }
+//int main() { week2_getSum3::main(); }
 
 /*
 	>> input

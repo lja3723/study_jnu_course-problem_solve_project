@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\project\project1.cpp" />
+    <ClCompile Include="src\week2\선택정렬.cpp" />
+    <ClCompile Include="src\week2\탐색하기1.cpp" />
+    <ClCompile Include="src\week2\탐색하기2.cpp" />
+    <ClCompile Include="src\week2\탐색하기3.cpp" />
+    <ClCompile Include="src\week2\합구하기2.cpp" />
+    <ClCompile Include="src\week2\합구하기3.cpp" />
+    <ClCompile Include="src\week3\다양성.cpp" />
+    <ClCompile Include="src\week3\도토리키재기.cpp" />
+    <ClCompile Include="src\week3\문자열의비교.cpp" />
+    <ClCompile Include="src\week3\오름차순인가.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -42,7 +55,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>ClangCL</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -127,14 +140,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="선택정렬.cpp" />
-    <ClCompile Include="탐색하기1.cpp" />
-    <ClCompile Include="탐색하기2.cpp" />
-    <ClCompile Include="탐색하기3.cpp" />
-    <ClCompile Include="합구하기2.cpp" />
-    <ClCompile Include="합구하기3.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

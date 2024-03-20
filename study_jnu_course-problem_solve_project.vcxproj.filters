@@ -16,25 +16,46 @@
     <Filter Include="소스 파일\2주차">
       <UniqueIdentifier>{ff75ebcc-19bf-4145-92d2-b772a209a210}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3주차">
+      <UniqueIdentifier>{b4b8b1d0-490c-4e80-a7dd-e486f1deea07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Project">
+      <UniqueIdentifier>{cff89549-8a35-4780-abb0-75ba937a5575}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="합구하기2.cpp">
+    <ClCompile Include="src\week2\선택정렬.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
-    <ClCompile Include="탐색하기1.cpp">
+    <ClCompile Include="src\week2\탐색하기1.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
-    <ClCompile Include="탐색하기2.cpp">
+    <ClCompile Include="src\week2\탐색하기2.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
-    <ClCompile Include="탐색하기3.cpp">
+    <ClCompile Include="src\week2\탐색하기3.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
-    <ClCompile Include="선택정렬.cpp">
+    <ClCompile Include="src\week2\합구하기2.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
-    <ClCompile Include="합구하기3.cpp">
+    <ClCompile Include="src\week2\합구하기3.cpp">
       <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week3\다양성.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week3\도토리키재기.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week3\문자열의비교.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week3\오름차순인가.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\project\project1.cpp">
+      <Filter>소스 파일\Project</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,13 +1,13 @@
-//201986 ÀÌÀå¾È
+ï»¿//201986 ì´ì¥ì•ˆ
 #include <stdio.h>
 #include <iostream>
 
-namespace week2_Å½»öÇÏ±â1 {
+namespace week2_search1 {
 
 	int findIndex(int data[], int n, int m) {
 		for (int i = 0; i < n; i++)			
-			if (data[i] == m) return i; //m Ã£À¸¸é ÀÎµ¦½º ¹İÈ¯
-		return -1; //mÀÌ ¾øÀ½
+			if (data[i] == m) return i; //m ì°¾ìœ¼ë©´ ì¸ë±ìŠ¤ ë°˜í™˜
+		return -1; //mì´ ì—†ìŒ
 	}
 
 	int main() {
@@ -27,7 +27,7 @@ namespace week2_Å½»öÇÏ±â1 {
 
 }
 
-//int main() { week2_Å½»öÇÏ±â1::main(); }
+//int main() { week2_search1::main(); }
 
 /*
 	>> input

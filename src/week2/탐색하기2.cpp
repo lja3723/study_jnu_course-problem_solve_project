@@ -5,7 +5,7 @@
 
 using namespace std;
 
-namespace week2_Å½»öÇÏ±â2 {
+namespace week2_search2 {
 
 	void printIndexes(string school[], int n) {
 		int first = -1;
@@ -45,7 +45,7 @@ namespace week2_Å½»öÇÏ±â2 {
 
 }
 
-//int main() { week2_Å½»öÇÏ±â2::main(); }
+//int main() { week2_search2::main(); }
 
 /*
 	>> input

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <iostream>
 
-namespace week2_합구하기2 {
+namespace week2_getSum2 {
 
 	void solve(int data[], int n, int p, int q) {
 		int cnt = 0; //체중제한 안걸리는 사람수
@@ -37,7 +37,7 @@ namespace week2_합구하기2 {
 
 }
 
-//int main() { week2_합구하기2::main(); }
+//int main() { week2_getSum2::main(); }
 
 /*
 	>> input

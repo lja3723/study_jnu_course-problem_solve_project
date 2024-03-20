@@ -1,18 +1,18 @@
-//201986 ÀÌÀå¾È
+ï»¿//201986 ì´ì¥ì•ˆ
 #include <cstdio>
 #include <iostream>
 
 using namespace std;
 
-namespace week2_¼±ÅÃÁ¤·Ä {
+namespace week2_selectionSort {
 
 	int getMinIndexInRange(int data[], int n, int begin, int end) {
-		int minIdx = begin; //ÃÖ¼Ò°ªÀÇ ÀÎµ¦½º¸¦ Ã¹ °ªÀ¸·Î ÃÊ±âÈ­
+		int minIdx = begin; //ìµœì†Œê°’ì˜ ì¸ë±ìŠ¤ë¥¼ ì²« ê°’ìœ¼ë¡œ ì´ˆê¸°í™”
 		
-		//beginÀÌ end¸¦ ³ÑÀ¸¸é break
+		//beginì´ endë¥¼ ë„˜ìœ¼ë©´ break
 		while (begin <= end) {
-			if (data[begin] < data[minIdx]) //»õ ÃÖ¼Ò°ª ¹ß°ßÇÏ¸é
-				minIdx = begin; //ÃÖ¼Ò°ªÀÇ ÀÎµ¦½º °»½Å
+			if (data[begin] < data[minIdx]) //ìƒˆ ìµœì†Œê°’ ë°œê²¬í•˜ë©´
+				minIdx = begin; //ìµœì†Œê°’ì˜ ì¸ë±ìŠ¤ ê°±ì‹ 
 			begin++;
 		}
 		return minIdx;
@@ -22,7 +22,7 @@ namespace week2_¼±ÅÃÁ¤·Ä {
 		for (int i = 0; i < n; i++) {
 			int minIndex = getMinIndexInRange(data, n, i, n - 1);
 
-			//Ã£Àº ÃÖ¼Ò°ª°ú i¸¦ swap
+			//ì°¾ì€ ìµœì†Œê°’ê³¼ ië¥¼ swap
 			int tmp = data[minIndex];
 			data[minIndex] = data[i];
 			data[i] = tmp;
@@ -50,7 +50,7 @@ namespace week2_¼±ÅÃÁ¤·Ä {
 
 }
 
-//int main() { week2_¼±ÅÃÁ¤·Ä::main(); }
+//int main() { week2_selectionSort::main(); }
 
 /*
 	>> input

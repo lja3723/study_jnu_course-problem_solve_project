@@ -5,7 +5,7 @@
 
 using namespace std;
 
-namespace week2_Å½»öÇÏ±â3 {
+namespace week2_search3 {
 
 	int findIndex(int data[], int n) {
 		int sum = 0; //Æò±Õ ±¸ÇÏ±â À§ÇØ µ¥ÀÌÅÍ ´©Àû
@@ -45,7 +45,7 @@ namespace week2_Å½»öÇÏ±â3 {
 
 }
 
-//int main() { week2_Å½»öÇÏ±â3::main(); }
+//int main() { week2_search3::main(); }
 
 /*
 	>> input
