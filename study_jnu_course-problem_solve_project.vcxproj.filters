@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Project">
       <UniqueIdentifier>{cff89549-8a35-4780-abb0-75ba937a5575}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4주차">
+      <UniqueIdentifier>{58342647-161c-4d05-b229-57de7b7c7520}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -56,6 +59,24 @@
     </ClCompile>
     <ClCompile Include="src\project\project1.cpp">
       <Filter>소스 파일\Project</Filter>
+    </ClCompile>
+    <ClCompile Include="form.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week4\픽셀수세기.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week4\데스티니.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week4\버블정렬.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week4\소수의판별.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week4\정주행.cpp">
+      <Filter>소스 파일\4주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

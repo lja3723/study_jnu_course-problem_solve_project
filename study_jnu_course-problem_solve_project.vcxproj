@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="form.cpp" />
     <ClCompile Include="src\project\project1.cpp" />
     <ClCompile Include="src\week2\선택정렬.cpp" />
     <ClCompile Include="src\week2\탐색하기1.cpp" />
@@ -30,6 +31,11 @@
     <ClCompile Include="src\week3\도토리키재기.cpp" />
     <ClCompile Include="src\week3\문자열의비교.cpp" />
     <ClCompile Include="src\week3\오름차순인가.cpp" />
+    <ClCompile Include="src\week4\데스티니.cpp" />
+    <ClCompile Include="src\week4\버블정렬.cpp" />
+    <ClCompile Include="src\week4\소수의판별.cpp" />
+    <ClCompile Include="src\week4\정주행.cpp" />
+    <ClCompile Include="src\week4\픽셀수세기.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
