@@ -30,7 +30,7 @@ namespace jnu_project1 {
 	}
 }
 
-int main() { return jnu_project1::main(); }
+//int main() { return jnu_project1::main(); }
 
 /*
 	>> input
