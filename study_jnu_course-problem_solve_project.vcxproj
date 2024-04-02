@@ -36,6 +36,10 @@
     <ClCompile Include="src\week4\소수의판별.cpp" />
     <ClCompile Include="src\week4\정주행.cpp" />
     <ClCompile Include="src\week4\픽셀수세기.cpp" />
+    <ClCompile Include="src\week5\응모.cpp" />
+    <ClCompile Include="src\week5\전화번호.cpp" />
+    <ClCompile Include="src\week5\페인트.cpp" />
+    <ClCompile Include="src\week5\피보나치.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

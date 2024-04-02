@@ -16,6 +16,7 @@ namespace week0_ {
 
 }
 
+//문제풀이를 담당하는 main문을 호출한다.
 //int main() { return week0_::main(); }
 
 /*
