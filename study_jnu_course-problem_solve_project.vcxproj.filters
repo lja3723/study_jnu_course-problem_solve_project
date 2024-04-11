@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\5주차">
       <UniqueIdentifier>{5a352110-52d6-48de-b1a8-b1167dc771d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\6주차">
+      <UniqueIdentifier>{e3e5eb73-5042-4f22-8d4f-114b78161ea7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -92,6 +95,18 @@
     </ClCompile>
     <ClCompile Include="src\week5\피보나치.cpp">
       <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week6\스도쿠보드.cpp">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week6\Probing.cpp">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week6\소인수분해.cpp">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week6\소수세기.cpp">
+      <Filter>소스 파일\6주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

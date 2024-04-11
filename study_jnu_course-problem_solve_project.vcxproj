@@ -40,6 +40,10 @@
     <ClCompile Include="src\week5\전화번호.cpp" />
     <ClCompile Include="src\week5\페인트.cpp" />
     <ClCompile Include="src\week5\피보나치.cpp" />
+    <ClCompile Include="src\week6\Probing.cpp" />
+    <ClCompile Include="src\week6\소수세기.cpp" />
+    <ClCompile Include="src\week6\소인수분해.cpp" />
+    <ClCompile Include="src\week6\스도쿠보드.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
