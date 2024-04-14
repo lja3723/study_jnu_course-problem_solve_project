@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="form.cpp" />
     <ClCompile Include="src\project\project1.cpp" />
+    <ClCompile Include="src\project\project2_종이.cpp" />
+    <ClCompile Include="src\project\project2_카지노.cpp" />
     <ClCompile Include="src\week2\선택정렬.cpp" />
     <ClCompile Include="src\week2\탐색하기1.cpp" />
     <ClCompile Include="src\week2\탐색하기2.cpp" />
