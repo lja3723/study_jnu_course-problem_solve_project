@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\6주차">
       <UniqueIdentifier>{e3e5eb73-5042-4f22-8d4f-114b78161ea7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\7주차">
+      <UniqueIdentifier>{5ed09e7c-86a9-487a-8151-1dc285113ea3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -113,6 +116,12 @@
     </ClCompile>
     <ClCompile Include="src\project\project2_카지노.cpp">
       <Filter>소스 파일\Project</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week7\두 직사각형.cpp">
+      <Filter>소스 파일\7주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week7\세 카드.cpp">
+      <Filter>소스 파일\7주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

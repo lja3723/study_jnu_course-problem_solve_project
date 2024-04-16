@@ -46,6 +46,8 @@
     <ClCompile Include="src\week6\소수세기.cpp" />
     <ClCompile Include="src\week6\소인수분해.cpp" />
     <ClCompile Include="src\week6\스도쿠보드.cpp" />
+    <ClCompile Include="src\week7\두 직사각형.cpp" />
+    <ClCompile Include="src\week7\세 카드.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
