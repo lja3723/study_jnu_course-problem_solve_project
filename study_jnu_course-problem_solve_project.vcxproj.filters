@@ -123,5 +123,11 @@
     <ClCompile Include="src\week7\세 카드.cpp">
       <Filter>소스 파일\7주차</Filter>
     </ClCompile>
+    <ClCompile Include="src\project\project3_시간.cpp">
+      <Filter>소스 파일\Project</Filter>
+    </ClCompile>
+    <ClCompile Include="src\project\project3_직사각형.cpp">
+      <Filter>소스 파일\Project</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
