@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\9주차">
       <UniqueIdentifier>{566ab5cd-58b4-4c36-ad0c-cd7a7b59bc8d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\10주차">
+      <UniqueIdentifier>{d5640056-751f-4935-aca8-e77bda512162}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -140,6 +143,12 @@
     </ClCompile>
     <ClCompile Include="src\week9\히스토그램.cpp">
       <Filter>소스 파일\9주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week10\불안정 지역.cpp">
+      <Filter>소스 파일\10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week10\조세퍼스의 문제.cpp">
+      <Filter>소스 파일\10주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
