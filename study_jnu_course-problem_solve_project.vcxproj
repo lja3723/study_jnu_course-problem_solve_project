@@ -25,6 +25,8 @@
     <ClCompile Include="src\project\project2_카지노.cpp" />
     <ClCompile Include="src\project\project3_시간.cpp" />
     <ClCompile Include="src\project\project3_직사각형.cpp" />
+    <ClCompile Include="src\week10\불안정 지역.cpp" />
+    <ClCompile Include="src\week10\조세퍼스의 문제.cpp" />
     <ClCompile Include="src\week2\선택정렬.cpp" />
     <ClCompile Include="src\week2\탐색하기1.cpp" />
     <ClCompile Include="src\week2\탐색하기2.cpp" />

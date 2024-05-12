@@ -75,7 +75,7 @@ namespace week9_histogram {
 }
 
 //문제풀이를 담당하는 main문을 호출한다.
-int main() { return week9_histogram::main(); }
+//int main() { return week9_histogram::main(); }
 
 /*
 	>> input
