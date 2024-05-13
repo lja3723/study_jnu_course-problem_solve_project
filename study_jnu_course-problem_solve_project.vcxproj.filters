@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\10주차">
       <UniqueIdentifier>{d5640056-751f-4935-aca8-e77bda512162}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\11주차">
+      <UniqueIdentifier>{4f5a66b3-84d8-4fc3-a652-3aa97008437b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -155,6 +158,12 @@
     </ClCompile>
     <ClCompile Include="src\project\project4_배달.cpp">
       <Filter>소스 파일\Project</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week11\중복 제거하기.cpp">
+      <Filter>소스 파일\11주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week11\정사각형.cpp">
+      <Filter>소스 파일\11주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
