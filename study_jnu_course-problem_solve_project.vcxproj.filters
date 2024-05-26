@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\11주차">
       <UniqueIdentifier>{4f5a66b3-84d8-4fc3-a652-3aa97008437b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\12주차">
+      <UniqueIdentifier>{9f2c0ab3-f2ae-4a90-81ef-26bfedabf7d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -164,6 +167,12 @@
     </ClCompile>
     <ClCompile Include="src\week11\정사각형.cpp">
       <Filter>소스 파일\11주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week12\빈도수세기.cpp">
+      <Filter>소스 파일\12주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week12\시장추천하기.cpp">
+      <Filter>소스 파일\12주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
