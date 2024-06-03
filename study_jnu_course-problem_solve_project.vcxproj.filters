@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\12주차">
       <UniqueIdentifier>{9f2c0ab3-f2ae-4a90-81ef-26bfedabf7d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\13주차">
+      <UniqueIdentifier>{f2633e85-f1fc-4a7d-88ef-4ac9c97f9331}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\week2\선택정렬.cpp">
@@ -173,6 +176,15 @@
     </ClCompile>
     <ClCompile Include="src\week12\시장추천하기.cpp">
       <Filter>소스 파일\12주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week13\깊이우선탐색.cpp">
+      <Filter>소스 파일\13주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\week13\너비우선탐색.cpp">
+      <Filter>소스 파일\13주차</Filter>
+    </ClCompile>
+    <ClCompile Include="src\project\project5_압축.cpp">
+      <Filter>소스 파일\Project</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -27,12 +27,15 @@
     <ClCompile Include="src\project\project3_직사각형.cpp" />
     <ClCompile Include="src\project\project4_배달.cpp" />
     <ClCompile Include="src\project\project4_행사.cpp" />
+    <ClCompile Include="src\project\project5_압축.cpp" />
     <ClCompile Include="src\week10\불안정 지역.cpp" />
     <ClCompile Include="src\week10\조세퍼스의 문제.cpp" />
     <ClCompile Include="src\week11\정사각형.cpp" />
     <ClCompile Include="src\week11\중복 제거하기.cpp" />
     <ClCompile Include="src\week12\빈도수세기.cpp" />
     <ClCompile Include="src\week12\시장추천하기.cpp" />
+    <ClCompile Include="src\week13\깊이우선탐색.cpp" />
+    <ClCompile Include="src\week13\너비우선탐색.cpp" />
     <ClCompile Include="src\week2\선택정렬.cpp" />
     <ClCompile Include="src\week2\탐색하기1.cpp" />
     <ClCompile Include="src\week2\탐색하기2.cpp" />
